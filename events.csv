@@ -1,0 +1,12 @@
+id,organizer_id,title,description,location,start_date,end_date,slots_available,img
+b0e4b30f-0433-4ee5-a031-1c22e7acfd25,655da55a-9fb4-4b23-b83b-ab57ed47b427,Community Pantry,Help distribute food.,QC Circle,2026-05-01 08:00,2026-05-01 12:00,9,
+0052d843-cd95-4371-8fbd-74351bcb1058,655da55a-9fb4-4b23-b83b-ab57ed47b427,River Clean up,Cleaning the local river.,Pasig River,2026-05-02 06:00,2026-05-02 10:00,19,
+bbf882d3-0cf5-4f0f-8d24-4835d1995787,655da55a-9fb4-4b23-b83b-ab57ed47b427,Beach Cleanup,Coastal Cleanup,CDO,2026-04-30 15:49,2026-04-30 15:55,20,C:\Users\franc\PycharmProjects\schoolprj\resources\event_imgs\4d1a030f-75b9-4d1c-b97b-2cc76caf4f81.png
+67c93a85-bac3-46a0-a3f6-d09a31789ac1,655da55a-9fb4-4b23-b83b-ab57ed47b427,test,test	,test,2026-05-09 15:53,2026-05-29 15:53,20,C:\Users\franc\PycharmProjects\schoolprj\resources\event_imgs\d22bd725-87b9-4509-8939-a234059fce40.png
+cd2191f7-0a55-416d-8063-3d3697eedde2,655da55a-9fb4-4b23-b83b-ab57ed47b427,test2,test 2,,2026-05-09 16:40,2026-05-28 16:40,1,C:\Users\franc\PycharmProjects\schoolprj\resources\event_imgs\c89e3f3c-ce2a-4271-8de3-ab353ad6b463.png
+b25a2027-c3fc-4678-b8a8-d9098afeb141,655da55a-9fb4-4b23-b83b-ab57ed47b427,title,description,CDO,2026-05-21 20:12,2026-05-28 20:12,19,
+ff07a069-6a3c-40d8-9863-898824c6a13c,655da55a-9fb4-4b23-b83b-ab57ed47b427,test for video,testing for a video	,CDO,2026-05-29 20:34,2026-05-30 20:34,19,C:\Users\franc\PycharmProjects\schoolprj\resources\event_imgs\c6cc5761-bc29-45c3-9840-3daecd0f5036.png
+e936499e-f678-49d3-85b6-6ca7f1cc1cff,655da55a-9fb4-4b23-b83b-ab57ed47b427,clean up drive,clean up at the coastal area	,cdo,2026-05-29 20:36,2026-05-30 20:36,19,
+0cb5b835-a605-4bc0-bd21-8558c4982276,655da55a-9fb4-4b23-b83b-ab57ed47b427,beach clean up,Clean BonBon beach	,"Bonbon, CDO",2026-05-29 20:50,2026-05-30 20:50,20,
+91fc6917-1b8b-4f91-8755-0ab77835b970,655da55a-9fb4-4b23-b83b-ab57ed47b427,Mangroove Planting,plant mangrooves,CDO,2026-05-29 21:03,2026-06-05 21:03,19,
+3391b56f-fc4b-438c-af64-c0f8890dbfa0,655da55a-9fb4-4b23-b83b-ab57ed47b427,Coastal clean up,clean the coast.	,CDO,2026-05-29 21:20,2026-05-30 21:20,20,
