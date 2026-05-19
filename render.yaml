@@ -20,6 +20,7 @@ services:
           type: web
           name: taratulong-web
           property: host
+    plan: free
 
   # ── Frontend (Static Site) ──
   - type: web
