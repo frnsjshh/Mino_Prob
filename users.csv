@@ -1,6 +1,0 @@
-uuid,email,password_hash,role,join_date,first_name,last_name,org_name,org_location,org_description,org_status,profile_pic,facebook,instagram,linkedin,active
-84088666-8dc8-452a-afff-518347cab44e,admin@test.com,$2b$12$ZQbdwmkA4X3KCh7zxAmcsO.fMU5sjapU5ZhiAQUlf1cIzWMGSb6FG,admin,2026-04-30,System,Admin,,,,,,,,,True
-20edfc27-9bc3-4e4f-80b4-68a854244970,vol1@test.com,$2b$12$QIfy6ZLein8V3yHIlMsb5ueilHGHV6e.6RMbobHZW27PoXCH2f5PS,volunteer,2026-04-30,Juan,Dela Cruz,,,,,C:\Users\franc\PycharmProjects\schoolprj\resources\profile_pics\20edfc27-9bc3-4e4f-80b4-68a854244970.png,,,,True
-cba26029-f668-4eb9-82a0-4c9b83557ee4,vol2@test.com,$2b$12$8Z0urWy.A9rvGIOAj3rrD.1NHATHQGOEE1S/nQolXBJE3onpIeITq,volunteer,2026-04-30,Maria,Clara,,,,,,,,,True
-655da55a-9fb4-4b23-b83b-ab57ed47b427,org1@test.com,$2b$12$JG1li3d2SeMLIHk1J2BRU.vCVLFg5poEMVLvZKkVjc3Wc82Tn87aS,organization,2026-04-30,,,Bayanihan Foundation,Quezon City,Helping communities,APPROVED,C:\Users\franc\PycharmProjects\schoolprj\resources\profile_pics\655da55a-9fb4-4b23-b83b-ab57ed47b427.png,facebook.com,instragram.com,linkedin.com,True
-a6d83007-76ab-45bc-923d-a2219547c183,org2@test.com,$2b$12$lLFUuvTTwfWKRMsLYqABneYc888JlVlTVeJHOwut/PO0sA.pfZNfa,organization,2026-04-30,,,Tulong Kabataan,Manila,Youth empowerment programs,REJECTED,,,,,True
