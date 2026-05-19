@@ -26,7 +26,6 @@ services:
   - type: web
     name: taratulong-web
     runtime: static
-    region: singapore
     rootDir: taratulong-web
     buildCommand: npm install --include=dev && npm run build
     staticPublishPath: dist
